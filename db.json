@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": "203ac20c-1907-421c-aa69-4e7f2b77ce6e",
+      "name": "arth",
+      "email": "arth@gmail.com"
+    },
+    {
+      "id": "dbac86e7-69ae-4e1e-94cb-f7a05c3da797",
+      "name": "aarha",
+      "email": "aarha@gmail.com"
+    },
+    {
+      "id": "2d9f85e6-8bdf-4f73-b30a-b5c152e39942",
+      "name": "pradhi",
+      "email": "pradhi@gmail.com"
+    },
+    {
+      "id": "82bc8a9f-1a74-47cb-b65a-08e7ef423522",
+      "name": "rio",
+      "email": "rio@gmail.com"
+    },
+    {
+      "id": "0b0b58b6-0c03-4df2-9da8-82140987fd10",
+      "name": "kumar",
+      "email": "kumar@gmail.com"
+    },
+    {
+      "id": "82e059ec-2ae1-424a-9e6b-fabcca74d3a4",
+      "name": "anitha",
+      "email": "anitha@gmail.com"
+    }
+  ]
+}
